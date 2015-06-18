@@ -2,7 +2,7 @@ var app = angular.module('BatuAkik', ['ngRoute']);
 
 app.config(function($routeProvider){
 	$routeProvider
-		.when('/', {
+		.when('/home', {
 			templateUrl : 'assets/templates/home.html',
 			controller : 'listdataCtrl'
 		})
@@ -18,7 +18,7 @@ app.config(function($routeProvider){
 			templateUrl : 'assets/templates/contact.html',
 		})
 		.otherwise({
-			redirectTo: '/'
+			redirectTo: '/home'
 		})
 });
 
