@@ -1,0 +1,124 @@
+* {
+	margin: 0;
+}
+
+body {
+	margin-top: 60px;
+	background-color: #ECECEC;
+}
+
+.header {
+	background-color: rgb(40, 187, 120);
+
+}
+.header a, .header a:hover{
+	font-weight: 600;
+	color: #237744;
+
+}
+.navbar-nav li a:hover, .navbar-nav li a:focus {
+	background-color: rgb(48, 163, 111);
+}
+
+.content {
+	margin : 20px;
+}
+
+.batu-list{
+	color: #929996;
+}
+.batu-search {
+	float: right!important;
+	margin-top: -45px;
+}
+
+.saparator {
+	margin: 10px;
+}
+
+.batu-card {
+	width: 100%;
+	height: 250px;
+	background-color: #fff;
+	box-shadow: 2px 3px #BBC3BF;
+	margin-bottom: 25px;
+}
+
+.batu-card a h3{
+	position: absolute;
+	padding: 0 10px;
+	margin-top: 10px;
+	font-size: 20px;
+	color: #ECECEC;
+	text-shadow: 2px 1px #000;
+}
+
+.batu-card a:hover h3{
+	color: #fff;
+}
+
+.batu-card img{
+	width: 100%;
+	height: 100%;
+	z-index: 600;
+}
+
+.btn-card {
+	background-color: #fff;
+	display: block;
+	border-radius: 0;
+	margin-bottom: 20px;
+	box-shadow: 2px 3px #BBC3BF;
+	left: 50%;
+	float: left;
+	width: 50%;
+	color: #929996;
+}
+.btn-card:hover, .btn-card:focus {
+	color: #929996;
+}
+
+.icon-bar {
+	background-color: #237744;
+}
+.detail-card {
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 2px 3px #BBC3BF;
+	border-radius: 3px;
+	padding: 10px;
+	margin: 20px 0;
+}
+.detail-card img {
+	margin: 0;
+	width: 100%;
+	padding: 10px 100px 20px 100px ;
+}
+footer {
+
+
+}
+
+@media (max-width:1024px){
+
+
+}
+
+
+@media (max-width:768px){
+	.navbar-nav {
+		width: 100%;
+	}
+	.navbar-nav li a {
+
+		margin-left: -30px;
+	}
+	.navbar-nav li a:hover {
+		background-color: rgb(48, 163, 111);
+	}
+}
+
+@media (max-width:640px){
+
+
+}

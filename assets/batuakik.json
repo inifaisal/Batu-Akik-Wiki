@@ -1,0 +1,211 @@
+[
+	{
+		"name" : "Bacan",
+		"image" : "bacan.jpg",
+		"slug" : "bacan",
+		"attr": {
+			"like" : 120,
+			"dislike" : 54
+		},
+		"description": "Batu bacan merupakan jenis batu mulia/akik asal Indonesia dan banyak ditemukan di daerah Halmahera Selatan Maluku Utara tepatnya di pulau bacan. Jenis batu bacan paling populer dan banyak dicari jenis batu bacan doko dan batu bacan palamea.Kedua jenis batu ini menag tengah menjadi incaran, baik bagi penghobi maupun kolektor. Perbedaan batu bacan doko dan palamea terletak pada warnanya. Doko memiliki warna hijau gelap sedangkan jenis palamea berwarna hijau kebiruan. Harga batu bacan sendiri mulai dari ratusan ribu puluhan juta rupiah."
+	},
+
+	{
+		"name" : "Sisik Naga",
+		"slug" : "sisik-naga",
+		"image" : "sisik-naga-2.jpg",
+		"attr": {
+			"like" : 30,
+			"dislike" : 12
+		},
+		"description" : "Batu akik sisik naga merupakan salah satu jenis batu akik yang tidak hanya menampilkan keindahan warna saja namun juga keindahan motif yang terlukis di dalam batu. Motif yang terdapat di dalam batu akik ini merupakan jenis motif yang mirip dengan sisik dari salah satu makhluk mitos, naga. Lalu, mengapa bisa ada motif sisik dalam batu akik? Hal ini sebenarnya belum bisa dirumuskan dengan ilmu sains. Namun, menurut para ilmuwan, yang terpenting adalah bahwa alam memiliki pengaruh besar dalam pembentukan batuan bermotif seperti sisik naga gemstone."
+	},
+
+	{
+		"name" : "Kalimaya",
+		"image" : "kalimaya.jpg",
+		"slug" : "kalimaya",
+		"attr": {
+			"like" : 120,
+			"dislike" : 54
+		},
+		"description" : "Batu kalimaya merupakan jenis batuan mulia yang paling banyak dicari baik oleh penghobi maupun kolektor. Keindahan batu ini sudah tidak diragukan lagi, bahkan mereka yang baru mengenal batu mulia sekalipun akan tertarik dengan pesona batu yang mampu mengeluarkan aneka macam warna tersebut. Di Indonesia dikenal dengan istilah kalimaya dan banyak ditemukan di Daerah Banten. Harga batu kalimaya sendiri bervariasi tergantung kualitas layaknya batu akik pada umumnya. Harga batu opal/kalimaya termahal sekita 2.500 dollar/karat."
+	},
+
+	{
+		"name" : "Red Rafflesia",
+		"image" : "red-refflesia.jpg",
+		"slug" : "red-refflesia",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		},
+		"description" : "Batu red raflesia merupakan salah satu jenis batu mulia atau batu mustika yang memiliki daya tarik kepada pecintanya yang luar biasa. Memiliki warna dan bentuk yang berbeda dengan jenis batu mustika lainnya tentu akan menambah ketertarikan tersendiri. Batu mustika jenis red raflesia ini dikenal dengan sebutan batu cempaka merah yang termasuk batu alam dari Bengkulu asli. Jenis batu mulia ini masuk dalam kategori Red carnelian chalcedony. Di Indonesia, batu mulia jenis ini telah populer di kalangan para pecinta batu mulia atau batu mustika. Berdasarkan namanya, batu mulia jenis ini telah memiliki warna menyerupai bunga Raflesia, sehingga disebutlah \"Red Raflesia\"."
+	},
+
+	{
+		"name" : "Pirus Besi",
+		"image" : "pirus-besi.jpg",
+		"slug" : "pirus-besi",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Anggur",
+		"image" : "anggur.jpg",
+		"slug" : "anggur",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		},
+		"description" : "Batu akik anggur ada beberapa jenisnya. Batu ini mempunyai harga yang cukup mahal dan banyak dicari oleh para kolektor batu akik. Hal ini dikarenakan batu akik jenis anggur ini, mempunyai bentuk yang menarik, jernih dan memiliki banyak sekali khasiat bagi penggunanya. Seperti yang sudah kita tahu, bahwa batu akik terbentuk dari endapan jutaan tahun lamanya dari dalam tanah. Batu tersebut terbentuk dari tanah, tembaga, besi, aluminium dan terkadang emas yang terdapat didalam tanah. Karena bentukan alami dari alam, membuat bentuk dan warna dari batu akik sangat bermacam-macam."
+	},
+
+	{
+		"name" : "Giok Natural Gold",
+		"image" : "giok-natural-gold.jpg",
+		"slug" : "giok-natural-gold",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Spritus",
+		"image" : "spritus.jpg",
+		"slug" : "spritus",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Hijau Garut",
+		"image" : "hijau-garut.jpg",
+		"slug" : "hijau-garut",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Bulu Macan",
+		"image" : "bulu-macan.jpg",
+		"slug" : "bulu-macan",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Sarang Tawon",
+		"image" : "sarang-tawon.jpg",
+		"slug" : "sarang-tawon",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Giok Lumut",
+		"image" : "giok-lumut.jpg",
+		"slug" : "giok-lumut",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Cempaka Lavender",
+		"image" : "cempaka-lavender.jpg",
+		"slug" : "cempaka-lavender",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Klawing",
+		"image" : "klawing.jpg",
+		"slug" : "klawing",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Kecubung (Amethyst)",
+		"image" : "kecubung.png",
+		"slug": "kecubung",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		},
+		"description" : "Batu kecubung termasuk salah satu dari sekian banyak batu akik yang juga tengah menjadi incaran banyak penghobi. Warna khas ungu yang terdapat pada batu ini membuat batu yang biasa disebut Amethyst di pasaran intenternasional itu terlihat mempesona. Tak hanya bisa dijadikan sebagai perhiasan kecubung juga dipercaya sebagai batu pembawa keberuntungan Baca : Khasiat Batu Kecubung"
+	},
+
+	{
+		"name" : "Bio Solor",
+		"image" : "bio-solar.jpg",
+		"slug" : "bio-solar",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Pictorial Agate",
+		"image" : "pictoral-agate.jpg",
+		"slug" : "pictoral-agate",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+
+	{
+		"name" : "Ginggang Lukulo",
+		"image" : "ginggang-lukulo.jpg",
+		"slug" : "ginggang-lukulo",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		}
+	},
+	{
+		"name" : "Sungai Dareh",
+		"image" : "sungai-dareh.jpg",
+		"slug" : "sungai-dareh",
+		"attr": {
+			"like" : 160,
+			"dislike" : 34
+		},
+		"description" : "Batu akik sungai dareh termasuk salah satu batu cincin populer dan termahal saat ini. Batu asal Sumatera Selatan itu kini tengah menjadi incaran para penghobi maupun kolektor. Popularitas batu itu mulai menanjak sejak Presiden SBY dan Barak Obama (Presiden Amerika) di duga mengenakan batu tersebut di jari tangan mereka.Harga batu sungai dareh berkualitas tentu saja sangat mahal bahkan, namun untuk kualitas sedang yang banyak dijual di pasaran lokal harganya cukup terjangkau, mulai dari ratusan ribu hingga jutaan rupiah."
+	},
+
+	{
+		"name" : "Pancawarna",
+		"image" : "pancawarna.jpg",
+		"slug" : "pancawarna",
+		"attr": {
+			"like" : 260,
+			"dislike" : 37
+		}
+	}
+
+
+
+
+]
